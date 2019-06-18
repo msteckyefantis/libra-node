@@ -1,0 +1,24 @@
+{
+  "name": "libra-node",
+  "version": "1.0.0",
+  "description": "Libra Crypto NodeJs Driber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msteckyefantis/libra-node.git"
+  },
+  "keywords": [
+    "Libra",
+    "Crypto",
+    "NodeJS"
+  ],
+  "author": "Michael Stecky-Efantis, Mark Zuckerberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msteckyefantis/libra-node/issues"
+  },
+  "homepage": "https://github.com/msteckyefantis/libra-node#readme"
+}
