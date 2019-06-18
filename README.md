@@ -7,4 +7,7 @@
 ![alt text](https://www.thetelegraphandargus.co.uk/resources/images/10005590.png?display=1&htype=0&type=responsive-gallery)
 
 
-#### PRs welcome, I won't be working on this one for a while.
+#### PRs welcome, I won't be working on this one for a bit of time.
+
+The purpose is for this to be a *simple* library to access
+and to use your Libra Coins.
