@@ -1,7 +1,7 @@
 {
   "name": "libra-node",
   "version": "1.0.1",
-  "description": "Libra Crypto NodeJs Driber",
+  "description": "Libra Crypto NodeJs Driver",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,24 @@
   "keywords": [
     "Libra",
     "Crypto",
-    "NodeJS"
+    "NodeJS",
+    "bitcoin",
+    "BTC",
+    "blockchain",
+    "driver",
+    "simple",
+    "easy",
+    "fast",
+    "quick",
+    "small",
+    "minimal",
+    "asynchronous",
+    "open-source",
+    "open",
+    "source",
+    "free",
+    "freedom",
+    "be-free"
   ],
   "author": "Michael Stecky-Efantis, Mark Zuckerberg",
   "license": "ISC",

@@ -1,6 +1,6 @@
 # libra-node
 
-## Powerful NodeJs Code Library for the Libra Crypto-Coin
+## Powerful NodeJs Code Library for the [Libra](https://libra.org) Crypto-Coin
 
 [![npm version](https://badge.fury.io/js/libra-node.svg)](https://badge.fury.io/js/libra-node)
 
