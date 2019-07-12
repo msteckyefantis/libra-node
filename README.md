@@ -10,10 +10,8 @@ and to use your Libra Crypto-Coins.
 ![alt text](https://www.thetelegraphandargus.co.uk/resources/images/10005590.png?display=1&htype=0&type=responsive-gallery)
 
 
-see the [Library Roadmap](https://github.com/msteckyefantis/libra-node/blob/master/docs/plan.ms)
-for plans about how this library is going to be built
+See the [Library Roadmap](https://github.com/msteckyefantis/libra-node/blob/master/docs/plan.md)
+for plans on how this library is going to be built.
 
 
 #### PRs welcome
-
-
