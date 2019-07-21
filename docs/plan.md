@@ -6,7 +6,7 @@
 the backend version of Javascript, using an ultra-clean JavaScript
 
 
-2. Build the Libra CLI client and connect to the testnet.
+2. Build the Libra CLI client and connect to the live and the test nets
 
 * once again, it's truly imperative that we figure out
 how to do this in NodeJS,
