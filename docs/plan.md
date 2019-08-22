@@ -21,3 +21,11 @@ the backend version of Javascript, using an ultra-clean JavaScript
 the backend version of Javascript, using an ultra-clean JavaScript
 
 ![Oh yeah!](https://i.kinja-img.com/gawker-media/image/upload/s--myZxcsX6--/c_scale,dpr_2.0,f_auto,fl_progressive,q_80,w_800/p2qxzxlyotfxnio8pu4i.jpg)
+
+
+#### 4. Create a command/script add money to the accounts
+
+* it is absolutely crucial that this is done in NodeJS,
+the backend version of Javascript, using an ultra-clean JavaScript
+
+![Yes it feels so good baby!](https://thumbs.gfycat.com/EnormousColorfulIbisbill-size_restricted.gif)
