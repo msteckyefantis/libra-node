@@ -29,3 +29,12 @@ the backend version of Javascript, using an ultra-clean JavaScript
 the backend version of Javascript, using an ultra-clean JavaScript
 
 ![Yes it feels so good baby!](https://thumbs.gfycat.com/EnormousColorfulIbisbill-size_restricted.gif)
+
+
+
+#### 5. Create a test script to make sure you can make transactions
+
+* this MUST be done in NodeJS,
+the backend version of Javascript, using an ultra-clean JavaScript
+
+![YES YES, YOU'RE ALMOST THERE, YOU'RE GOING TO MAKE ME... !](https://swagitda.com/blog/img/darth-jar-jar.jpg)
