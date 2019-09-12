@@ -1,6 +1,6 @@
 {
   "name": "libra-node",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Libra Crypto NodeJs Driver",
   "main": "index.js",
   "scripts": {
