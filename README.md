@@ -12,4 +12,4 @@ See the [preliminary library roadmap (open to changes)](https://github.com/mstec
 for plans on how this library is going to be built.
 
 
-#### PRs welcome, ideas, suggestions, and code welcome☮️
+#### Ideas, suggestions, code, and PRs welcome☮️
