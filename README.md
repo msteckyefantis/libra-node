@@ -8,7 +8,7 @@
 ![alt text](https://www.thetelegraphandargus.co.uk/resources/images/10005590.png?display=1&htype=0&type=responsive-gallery)
 
 
-See the [Preliminary Library Roadmap (subject to change)](https://github.com/msteckyefantis/libra-node/blob/master/docs/plan.md)
+See the [preliminary library roadmap (open to changes)](https://github.com/msteckyefantis/libra-node/blob/master/docs/plan.md)
 for plans on how this library is going to be built.
 
 
