@@ -1,6 +1,6 @@
 # libra-node
 
-## Open-Source NodeJs Code Library for the [Libra Blockchain Technology](https://libra.org)
+## Open-Source NodeJs Code Library for the [Libra](https://libra.org) Blockchain Technology
 
 
 [![npm version](https://badge.fury.io/js/libra-node.svg)](https://badge.fury.io/js/libra-node)
